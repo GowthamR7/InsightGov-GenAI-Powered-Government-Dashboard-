@@ -57,7 +57,7 @@ function PublicFormView({ onFormSubmit }) {
     };
 
     return (
-        <div>
+        <div className='mx-auto max-w-3xl pt-8'>
             <h1 className="text-3xl font-bold text-gray-800">Public Application Form</h1>
             <p className="mt-2 text-gray-600">Fill out the details below to apply for a scheme.</p>
             
